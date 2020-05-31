@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".EndActivity"></activity>
-        <activity android:name=".Main2Activity"></activity>
+        <activity android:name=".QuestionActtivity"></activity>
         <activity android:name=".MainActivity"></activity>
         <activity android:name=".SplashActivity">
 

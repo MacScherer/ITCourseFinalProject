@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -22,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        getSupportActionBar().hide(); // Esconde barra de ações
+        getSupportActionBar().hide(); // Esconde ba-rra de ações
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main); // Monta a tela atual
 
@@ -37,13 +36,13 @@ public class MainActivity extends AppCompatActivity {
     public  void verificaInfo(View v) {
             if (!campoNome.getText().toString().equals("")) { // Se o campo for Preenchido  é verdadeiro
                 if (difNormal > difDificil){ //  Var numérica INT
-                    Intent intent = new Intent(this, Main2Activity.class); //Chama a tela
+                    Intent intent = new Intent(this, QuestionActtivity.class); //Chama a tela
                     String paramNickname = campoNome.getText().toString();
                     intent.putExtra("Normal", difNormal); // Passa o valor numérico 0 ou 1 para a próxima tela
                     intent.putExtra("nomeInstanciado", paramNickname);
                     startActivity(intent); // Inicia a próxima tela
                 }else {
-                    Intent intent = new Intent(this, Main2Activity.class); //Chama a tela
+                    Intent intent = new Intent(this, QuestionActtivity.class); //Chama a tela
                     String paramNickname = campoNome.getText().toString();
                     intent.putExtra("nomeInstanciado", paramNickname);
                     intent.putExtra("Dificil", difDificil);

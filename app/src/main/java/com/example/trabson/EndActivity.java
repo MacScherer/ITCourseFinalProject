@@ -30,56 +30,64 @@ public class EndActivity extends AppCompatActivity {
         tv_Dificuldade = findViewById(R.id.dificuldadeFinal);
         tv_Tier = findViewById(R.id.Tier);
 
-        int Correto = getIntent().getIntExtra("certo", 0);
-        int Errado = getIntent().getIntExtra("errado", 0);
-        int Score = getIntent().getIntExtra("score", 0);
-        int Normal = getIntent().getIntExtra("normal", 0);
-        int Dificil = getIntent().getIntExtra("dificil", 0);
+        int valorCorreto = getIntent().getIntExtra("certo", 0);
+        int valorErrado = getIntent().getIntExtra("errado", 0);
+        int valorScore = getIntent().getIntExtra("score", 0);
+        int dificuldadeNormal = getIntent().getIntExtra("normal", 0);
+        int dificuldadeDificil = getIntent().getIntExtra("dificil", 0);
 
         final String nickNameFinal = getIntent().getStringExtra("nome");
 
-        tv_Resultado.setText("Respostas corretas: " + Correto + "\nRespostas erradas: " + Errado);
-        tv_ScoreFinal.setText(String.valueOf(Score)); // SetText precisa converter String to Int
+        tv_Resultado.setText("Respostas corretas: " + valorCorreto + "\nRespostas erradas: " + valorErrado);
+        tv_ScoreFinal.setText(String.valueOf(valorScore)); // SetText precisa converter String to Int
         tv_Nickname.setText(nickNameFinal);
+        dificuldadeEscolhida(dificuldadeNormal, dificuldadeDificil);
+        rankingFinal(valorScore);
+        statusFinal(valorCorreto, valorErrado);
 
-        // Dificuldade escolhida
-        if (Normal > Dificil){
+    }
+
+    private void statusFinal(int valorCorreto, int valorErrado) {
+        if (valorCorreto > valorErrado) {
+           Toast.makeText(this, "VITORIA", Toast.LENGTH_LONG).show();
+       }
+        if (valorCorreto == valorErrado) {
+            Toast.makeText(this, "EMPATE", Toast.LENGTH_LONG).show();
+        }
+        if (valorErrado > valorCorreto) {
+            Toast.makeText(this, "DERROTA", Toast.LENGTH_LONG).show();
+        }
+    }
+
+    private void rankingFinal(int valorScore) {
+        if (valorScore >= 300){
+            tv_Tier.setImageResource(R.drawable.bronze);
+        }
+        if (valorScore >= 500){
+            tv_Tier.setImageResource(R.drawable.prata);
+        }
+        if (valorScore >= 800){
+            tv_Tier.setImageResource(R.drawable.ouro);
+        }
+        if (valorScore >= 1100){
+            tv_Tier.setImageResource(R.drawable.platina);
+        }
+        if (valorScore >= 1400){
+            tv_Tier.setImageResource(R.drawable.diamante);
+        }
+        if (valorScore >= 1700){
+            tv_Tier.setImageResource(R.drawable.mestre);
+        }
+        if (valorScore >= 2000){
+            tv_Tier.setImageResource(R.drawable.challenger);
+        }
+    }
+
+    private void dificuldadeEscolhida(int normal, int dificil) {
+        if (normal > dificil){
             tv_Dificuldade.setText("NORMAL");
         }else{
             tv_Dificuldade.setText("DIFICIL");
         }
-
-        // Ranking final
-        if (Score >= 300){
-            tv_Tier.setImageResource(R.drawable.bronze);
-        }
-        if (Score >= 500){
-            tv_Tier.setImageResource(R.drawable.prata);
-        }
-        if (Score >= 800){
-            tv_Tier.setImageResource(R.drawable.ouro);
-        }
-        if (Score >= 1100){
-            tv_Tier.setImageResource(R.drawable.platina);
-        }
-        if (Score >= 1400){
-            tv_Tier.setImageResource(R.drawable.diamante);
-        }
-        if (Score >= 1700){
-            tv_Tier.setImageResource(R.drawable.mestre);
-        }
-        if (Score >= 2000){
-            tv_Tier.setImageResource(R.drawable.challenger);
-        }
-
-        // Status do final de game
-         if (Correto > Errado) {
-            Toast.makeText(this, "VITORIA", Toast.LENGTH_LONG).show();
-        }if (Correto == Errado) {
-            Toast.makeText(this, "EMPATE", Toast.LENGTH_LONG).show();
-        }if (Errado > Correto) {
-            Toast.makeText(this, "DERROTA", Toast.LENGTH_LONG).show();
-        }
-
     }
 }
