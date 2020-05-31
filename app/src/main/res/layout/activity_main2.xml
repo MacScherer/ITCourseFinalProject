@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main2Activity">
+
+    <ImageView
+        android:id="@+id/Background"
+        android:layout_width="835dp"
+        android:layout_height="791dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.525"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/fundoverde" />
+
+    <Button
+        android:id="@+id/btnOpcao1"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="325dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="211dp"
+        android:alpha="0.65"
+        android:background="#666666"
+        android:ellipsize="none"
+        android:text="Resposta 1"
+        android:textAllCaps="true"
+        android:textColor="#F4F4F4"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnOpcao2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/btnOpcao2"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:alpha="0.65"
+        android:background="#666666"
+        android:text="Resposta 2"
+        android:textAllCaps="true"
+        android:textColor="#F4F4F4"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnOpcao3"
+        app:layout_constraintEnd_toEndOf="@+id/btnOpcao1"
+        app:layout_constraintStart_toStartOf="@+id/btnOpcao1"
+        app:layout_constraintTop_toBottomOf="@+id/btnOpcao1" />
+
+    <Button
+        android:id="@+id/btnOpcao3"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:alpha="0.65"
+        android:background="#666666"
+        android:text="Resposta 3"
+        android:textAllCaps="true"
+        android:textColor="#F4F4F4"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/btnOpcao4"
+        app:layout_constraintEnd_toEndOf="@+id/btnOpcao2"
+        app:layout_constraintStart_toStartOf="@+id/btnOpcao2"
+        app:layout_constraintTop_toBottomOf="@+id/btnOpcao2" />
+
+    <Button
+        android:id="@+id/btnOpcao4"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="144dp"
+        android:alpha="0.65"
+        android:background="#666666"
+        android:text="Resposta 4"
+        android:textAllCaps="true"
+        android:textColor="#F4F4F4"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/btnOpcao3"
+        app:layout_constraintStart_toStartOf="@+id/btnOpcao3"
+        app:layout_constraintTop_toBottomOf="@+id/btnOpcao3" />
+
+    <TextView
+        android:id="@+id/txtNickname"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:fontFamily="serif"
+        android:text="Nickname"
+        android:textColor="#FBFBFB"
+        app:layout_constraintStart_toStartOf="@+id/btnOpcao1"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtScore"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:fontFamily="serif"
+        android:text="Score"
+        android:textColor="#F8F8F8"
+        app:layout_constraintEnd_toEndOf="@+id/btnOpcao1"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/txtNickname"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtPergunta"
+        android:layout_width="322dp"
+        android:layout_height="103dp"
+        android:fontFamily="serif"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eget est rutrum, aliquet enim ac, condimentum ex. Maecenas imperdiet quam ac eleifend egestas. Cras id hendrerit purus. Sed eget nibh venenatis dolor porta egestas ac vel quam"
+        android:textColor="#FAFAFA"
+        app:layout_constraintBottom_toTopOf="@+id/btnOpcao1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.822" />
+
+    <ImageView
+        android:id="@+id/imgTier"
+        android:layout_width="123dp"
+        android:layout_height="114dp"
+        android:layout_marginStart="139dp"
+        android:layout_marginLeft="139dp"
+        android:layout_marginEnd="140dp"
+        android:layout_marginRight="140dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtPergunta"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/unranked"
+        tools:srcCompat="@drawable/unranked" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

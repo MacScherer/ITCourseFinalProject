@@ -1,0 +1,319 @@
+{
+    "questoes": 
+    [
+        {
+            "questao": "Antes de receber o nome de Mario, o personagem aparecia no primeiro Donkey Kong, qual o nome do  personagem citado?",
+            "resposta1": "Skull",
+            "resposta2": "Italian Guy",
+            "resposta3": "Kid",
+            "resposta4": "JumpMan",
+            "correta": "JumpMan"
+        },
+        {
+            "questao": "Quais sao os elementos da tabela periodica que possuem 8 eletrons na ultima camada",
+            "resposta1": "nao metais",
+            "resposta2": "metais de transicao",
+            "resposta3": "gases nobres",
+            "resposta4": "lantanideos",
+            "correta": "gases nobres"
+        },
+        {
+            "questao": "Nome do meio de John Kennedy",
+            "resposta1": "Frank",
+            "resposta2": "Farok",
+            "resposta3": "Ferdinand",
+            "resposta4": "Fitzgerald",
+            "correta": "Fitzgerald"
+        },
+        {
+            "questao": "De quem é a famosa frase “Penso, logo existo”?",
+            "resposta1": "Platao",
+            "resposta2": "Galileu Galilei",
+            "resposta3": "Socrattes",
+            "resposta4": "Descartes",
+            "correta": "Descartes"
+        },
+        {
+            "questao": "Que líder mundial ficou conhecida como “Dama de Ferro”?",
+            "resposta1": "Angela Merkel",
+            "resposta2": "Margaret Thatcher",
+            "resposta3": "Hillary Clinton",
+            "resposta4": "Christine Lagarde",
+            "correta": "Margaret Thatcher"
+        },
+        {
+            "questao": "Quem pintou Guernica?",
+            "resposta1": "Paul Cézanne",
+            "resposta2": "Pablo Picasso",
+            "resposta3": "Diego Rivera",
+            "resposta4": "Tarsila do Amaral",
+            "correta": "Pablo Picasso"
+        },
+        {
+            "questao": "De onde é a invenção do chuveiro elétrico?",
+            "resposta1": "França",
+            "resposta2": "Inglaterra",
+            "resposta3": "Brasil",
+            "resposta4": "Austrália",
+            "correta": "Brasil"
+        },
+        {
+            "questao": "Qual a montanha mais alta do Brasil?",
+            "resposta1": "Pico da Neblina",
+            "resposta2": "Pico Paraná",
+            "resposta3": "Monte Roraima",
+            "resposta4": "Pico Maior de Friburgo",
+            "correta": "Pico da Neblina"
+        },
+        {
+            "questao": "Qual a montanha mais alta do Brasil?",
+            "resposta1": "Pico da Neblina",
+            "resposta2": "Pico Paraná",
+            "resposta3": "Monte Roraima",
+            "resposta4": "Pico Maior de Friburgo",
+            "correta": "Pico da Neblina"
+        },
+        {
+            "questao": "Qual foi a revolução que alavancou a independência do Brasil?",
+            "resposta1": "Revolução Farroupilha",
+            "resposta2": "Revolução Federalista",
+            "resposta3": "Revolução Praieira",
+            "resposta4": "Revolução Pernambucana",
+            "correta": "Revolução Pernambucana"
+        },
+        {
+            "questao": "Lady Di era o apelido de qual personalidade?",
+            "resposta1": "Chiquinha Gonzaga",
+            "resposta2": "Joana d’Arc",
+            "resposta3": "Carlota Joaquina",
+            "resposta4": "Diana, a Princesa de Gales",
+            "correta": "Diana, a Princesa de Gales"
+        },
+        {
+            "questao": "As celulas adiposas pertencem a qual tecido?",
+            "resposta1": "Cartilaginoso",
+            "resposta2": "Ósseo",
+            "resposta3": "Conjuntivo",
+            "resposta4": "Sanguineo",
+            "correta": "Conjuntivo"
+        },
+        {
+            "questao": "Quando acabou a Segunda Guerra Mundial?",
+            "resposta1": "1947",
+            "resposta2": "1945",
+            "resposta3": "1889",
+            "resposta4": "1950",
+            "correta": "1945"
+        },
+        {
+            "questao": "Como era conhecido o pai do jogador de futebol Edson Arantes do Nascimento?",
+            "resposta1": "Jorginho",
+            "resposta2": "Dondinho",
+            "resposta3": "Mineirinho",
+            "resposta4": "Luizinho",
+            "correta": "Dondinho"
+        },
+        {
+            "questao": "Como era o nome do meio de George Bush?",
+            "resposta1": "Walker",
+            "resposta2": "Washington",
+            "resposta3": "Walter",
+            "resposta4": "Wicks",
+            "correta": "Walker"
+        },
+        {
+            "questao": "Em que lugar o Papel foi inventado há mais de 2000 anos atrás?",
+            "resposta1": "Egito",
+            "resposta2": "Mongólia",
+            "resposta3": "China",
+            "resposta4": "Japão",
+            "correta": "China"
+        },
+        {
+            "questao": "O lago Vitória fica em que lugar?",
+            "resposta1": "África",
+            "resposta2": "Ásia",
+            "resposta3": "Oceania",
+            "resposta4": "América",
+            "correta": "África"
+        },
+        {
+            "questao": "Com que galáxia a Via-Láctea deve colidir algum dia?",
+            "resposta1": "Olho negro",
+            "resposta2": "Andrômeda",
+            "resposta3": "Cartweel",
+            "resposta4": "Ganêmides",
+            "correta": "Andrômeda"
+        },
+        {
+            "questao": "Qual é o nome do computador que venceu o campeão mundial de xadrez Garry Kasparov em 1996?",
+            "resposta1": "Active Link",
+            "resposta2": "Colossus",
+            "resposta3": "Skynet",
+            "resposta4": "Deep Blue",
+            "correta": "Deep Blue"
+        },
+        {
+            "questao": "Qual das alternativas abaixo não é um composto orgânico?",
+            "resposta1": "Carboidratos",
+            "resposta2": "Proteínas",
+            "resposta3": "Lipídios",
+            "resposta4": "Água",
+            "correta": "Lipídios"
+        },
+        {
+            "questao": "Quantos ossos tem o corpo humano?",
+            "resposta1": "200",
+            "resposta2": "202",
+            "resposta3": "204",
+            "resposta4": "206",
+            "correta": "206"
+        },
+        {
+            "questao": "Qual foi o ano da Proclamação da República no Brasil?",
+            "resposta1": "1888",
+            "resposta2": "1889",
+            "resposta3": "1890",
+            "resposta4": "1891",
+            "correta": "1889"
+        },
+        {
+            "questao": "Quantos estados fazem parte da região sudeste?",
+            "resposta1": "3",
+            "resposta2": "4",
+            "resposta3": "5",
+            "resposta4": "6",
+            "correta": "4"
+        },
+        {
+            "questao": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+            "resposta1": "115",
+            "resposta2": "118",
+            "resposta3": "121",
+            "resposta4": "121",
+            "correta": "118"
+        },
+        {
+            "questao": "Em que mês é comemorado o dia do folclore no Brasil?",
+            "resposta1": "Janeiro",
+            "resposta2": "Agosto",
+            "resposta3": "Outubro",
+            "resposta4": "Dezembro",
+            "correta": "Agosto"
+        },
+        {
+            "questao": "Astana é a capital de que país?",
+            "resposta1": "Afeganistão",
+            "resposta2": "Paquistão",
+            "resposta3": "Cazaquistão",
+            "resposta4": "Azerbaijão",
+            "correta": "Cazaquistão"
+        },
+        {
+            "questao": "O café é originário de que país?",
+            "resposta1": "Brasil",
+            "resposta2": "Etiópia",
+            "resposta3": "Nigéria",
+            "resposta4": "Colômbia",
+            "correta": "Etiópia"
+        },
+        {
+            "questao": "Qual o total de medalhas de ouro, prata e bronze que o Brasil conquistou em suas participações nos Jogos Olímpicos?",
+            "resposta1": "92",
+            "resposta2": "99",
+            "resposta3": "128",
+            "resposta4": "144",
+            "correta": "128"
+        },
+        {
+            "questao": "Qual é o som emitido pelo pombo?",
+            "resposta1": "Ele arrulha",
+            "resposta2": "Ele grasna",
+            "resposta3": "Ele pia",
+            "resposta4": "Ele gorjeia",
+            "correta": "Ele arrulha"
+        },
+        {
+            "questao": "Quantas cavidades tem o coração do ser humano?",
+            "resposta1": "Uma",
+            "resposta2": "Duas",
+            "resposta3": "Três",
+            "resposta4": "Quatro",
+            "correta": "Quatro"
+        },
+        {
+            "questao": "Um primeiro-ministro é chefe de governo em qual regime?",
+            "resposta1": "Absolutista",
+            "resposta2": "Anarquista",
+            "resposta3": "Parlamentarista",
+            "resposta4": "Presidencialista",
+            "correta": "Parlamentarista"
+        },
+        {
+            "questao": "O etanol é produzido através de qual fonte de energia?",
+            "resposta1": "Solar",
+            "resposta2": "Biomassa",
+            "resposta3": "Eólica",
+            "resposta4": "Geotérmica",
+            "correta": "Biomassa"
+        },
+        {
+            "questao": "Qual o livro mais vendido no mundo, depois da Bíblia?",
+            "resposta1": "O Senhor dos Anéis",
+            "resposta2": "Dom Quixote",
+            "resposta3": "O Pequeno Príncipe",
+            "resposta4": "Ela, a Feiticeira",
+            "correta": "Dom Quixote"
+        },
+        {
+            "questao": "Qual desses não é um instrumento meteorológico?",
+            "resposta1": "Barógrafo",
+            "resposta2": "Termômetro",
+            "resposta3": "Etilômetro",
+            "resposta4": "Anemômetro",
+            "correta": "Etilômetro"
+        },
+        {
+            "questao": "Qual destas, apesar do seu nome, não é considerada um tipo de força?",
+            "resposta1": "Força de atrito",
+            "resposta2": "Força peso",
+            "resposta3": "Força eletromotriz",
+            "resposta4": "Força centrípeta",
+            "correta": "Força eletromotriz"
+        },
+        {
+            "questao": "O Dia do Fico é anualmente celebrado em que data?",
+            "resposta1": "7 de setembro",
+            "resposta2": "19 de abril",
+            "resposta3": "19 de novembro",
+            "resposta4": "9 de janeiro",
+            "correta": "9 de janeiro"
+        },
+        {
+            "questao": "Qual desses autores brasileiros escreveu O Guarani e o Gaúcho?",
+            "resposta1": "José de Anchieta",
+            "resposta2": "Gonçalves de Magalhães",
+            "resposta3": "Gonçalves Dias",
+            "resposta4": "José de Alencar",
+            "correta": "José de Alencar"
+        },
+        {
+            "questao": "A quem foi atribuído, pela primeira vez, o prêmio nobel da paz?",
+            "resposta1": "Fréderic Passy",
+            "resposta2": "Martin Luther King Jr.",
+            "resposta3": "Fréderic Passy e Henry Dunant",
+            "resposta4": "Madre Teresa de Calcutá",
+            "correta": "Fréderic Passy e Henry Dunant"
+        },
+        {
+            "questao": "Qual desses autores brasileiros escreveu O Guarani e o Gaúcho?",
+            "resposta1": "José de Anchieta",
+            "resposta2": "Gonçalves de Magalhães",
+            "resposta3": "Gonçalves Dias",
+            "resposta4": "José de Alencar",
+            "correta": "José de Alencar"
+        }
+
+
+    ]
+}

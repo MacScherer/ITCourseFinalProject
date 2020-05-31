@@ -1,0 +1,518 @@
+{
+    "questoes": 
+    [
+        {
+            "questao": "Qual o primeiro planeta do sistema solar?",
+            "resposta1": "mercurio",
+            "resposta2": "Venus",
+            "resposta3": "Terra",
+            "resposta4": "Marte",
+            "correta": "mercurio"
+        },
+        {
+            "questao": "Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+            "resposta1": "Jânio Quadros",
+            "resposta2": "João Goulart",
+            "resposta3": "Getúlio Vargas",
+            "resposta4": "João Figueiredo",
+            "correta": "João Goulart"
+        },
+        {
+            "questao": "Quanto tempo a luz do Sol demora para chegar à Terra?",
+            "resposta1": "12 minutos",
+            "resposta2": "1 dia",
+            "resposta3": "8 minutos",
+            "resposta4": "12 horas",
+            "correta": "8 minutos"
+        },
+        {
+            "questao": "Qual a nacionalidade de Che Guevara?",
+            "resposta1": "Cubana",
+            "resposta2": "Argentina",
+            "resposta3": "Panamenha",
+            "resposta4": "Boliviana",
+            "correta": "Argentina"
+        },
+        {
+            "questao": "Em que período da pré-história o fogo foi descoberto?",
+            "resposta1": "Neolítico",
+            "resposta2": "Paleolítico",
+            "resposta3": "Idade dos Metais",
+            "resposta4": "Período da Pedra Polida",
+            "correta": "Paleolítico"
+        },
+        {
+            "questao": "Em qual local da Ásia o português é língua oficial?",
+            "resposta1": "Macau",
+            "resposta2": "Moçambique",
+            "resposta3": "Filipinas",
+            "resposta4": "Índia",
+            "correta": "Macau"
+        },
+        {
+            "questao": "Como é a conjugação do verbo caber na 1.ª pessoa do singular do presente do indicativo?",
+            "resposta1": "Que eu caiba",
+            "resposta2": "Nenhuma das alternativas",
+            "resposta3": "Eu cabo",
+            "resposta4": "Eu caibo",
+            "correta": "Eu caibo"
+        },
+        {
+            "questao": "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?",
+            "resposta1": "Biologia",
+            "resposta2": "Astronomia",
+            "resposta3": "Mitologia",
+            "resposta4": "Filosofia",
+            "correta": "Mitologia"
+        },
+        {
+            "questao": "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?",
+            "resposta1": "Igualdade das raças",
+            "resposta2": "Prêmio Nobel da Paz",
+            "resposta3": "Justiça para os menos favorecidos",
+            "resposta4": "Luta contra o Apartheid",
+            "correta": "Igualdade das raças"
+        },
+        {
+            "questao": "Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?",
+            "resposta1": "Yuri Gagarin, em 1961",
+            "resposta2": "Buzz Aldrin, em 1969",
+            "resposta3": "Neils Armstrong, em 1969.",
+            "resposta4": "Charles Duke, em 1971",
+            "correta": "Neils Armstrong, em 1969."
+        },
+        {
+            "questao": "Chernobyl e Césio-137 fazem parte dos maiores acidentes nucleares da história. Em que países aconteceram?",
+            "resposta1": "Rússia e Brasil",
+            "resposta2": "Rússia e Espanha",
+            "resposta3": "Estados Unidos e Ucrânia",
+            "resposta4": "Ucrânia e Brasil",
+            "correta": "Ucrânia e Brasil"
+        },
+        {
+            "questao": "Como morreu Saddam Hussein?",
+            "resposta1": "Vítima de câncer",
+            "resposta2": "Suicídio",
+            "resposta3": "Enforcado",
+            "resposta4": "Decapitado",
+            "correta": "Enforcado"
+        },
+        {
+            "questao": "Em que país se localizava Auschwitz, o maior campo de concentração nazi?",
+            "resposta1": "Alemanha",
+            "resposta2": "Hungria",
+            "resposta3": "Áustria",
+            "resposta4": "Polônia",
+            "correta": "Polônia"
+        },
+        {
+            "questao": "Qual o nome do líder da Coreia do Norte??",
+            "resposta1": "Pak Pong-ju",
+            "resposta2": "Kim Jong-un",
+            "resposta3": "Kim Jong-Il",
+            "resposta4": "Moon Jae-in",
+            "correta": "Kim Jong-un"
+        },
+        {
+            "questao": "Nesses pares, ambos são mamíferos:",
+            "resposta1": "Morcegos e galinhas",
+            "resposta2": "Girafas e tartarugas",
+            "resposta3": "Baleia azul e golfinhos",
+            "resposta4": "Macacos e sapos",
+            "correta": "Baleia azul e golfinhos"
+        },
+        {
+            "questao": "De que são constituídos os diamantes?",
+            "resposta1": "Grafite",
+            "resposta2": "Carbono",
+            "resposta3": "Bóhrio",
+            "resposta4": "Ósmio",
+            "correta": "Carbono"
+        },
+        {
+            "questao": "O que a palavra legend significa em português?",
+            "resposta1": "Legenda",
+            "resposta2": "Conto",
+            "resposta3": "História",
+            "resposta4": "Lenda",
+            "correta": "Lenda"
+        },
+        {
+            "questao": "“It is six twenty ou twenty past six”. Que horas são em inglês?",
+            "resposta1": "12:06",
+            "resposta2": "6:20",
+            "resposta3": "2:20",
+            "resposta4": "6:02",
+            "correta": "6:20"
+        },
+        {
+            "questao": "Quais os nomes dos três Reis Magos?",
+            "resposta1": "Gaspar, Nicolau e Natanael",
+            "resposta2": "Belchior, Gaspar e Baltazar",
+            "resposta3": "Belchior, Gaspar e Nataniel",
+            "resposta4": "Gabriel, Benjamim e Melchior",
+            "correta": "Belchior, Gaspar e Baltazar"
+        },
+        {
+            "questao": "“Qual tipo sanguíneo é considerado doador universal?",
+            "resposta1": "Tipo A",
+            "resposta2": "Tipo B",
+            "resposta3": "Tipo AB",
+            "resposta4": "Tipo O",
+            "correta": "Tipo O"
+        },
+        {
+            "questao": "Quando acabou a Segunda Guerra Mundial?",
+            "resposta1": "1947",
+            "resposta2": "1945",
+            "resposta3": "1889",
+            "resposta4": "1950",
+            "correta": "1945"
+        },
+        {
+            "questao": "Sabendo que o perímetro de um hexágono regular é 48 cm. Qual é a medida de cada lado do hexágono?",
+            "resposta1": "7,9",
+            "resposta2": "8",
+            "resposta3": "9,2",
+            "resposta4": "8,1",
+            "correta": "8"
+        },
+        {
+            "questao": "Quem foi Ernesto Che Guevara?",
+            "resposta1": "Um médico Brasileiro",
+            "resposta2": "Um jogador de cartas Argentino",
+            "resposta3": "Um guerrelheiro de Cuba",
+            "resposta4": "Um cantor Colombiano",
+            "correta": "Um guerrelheiro de Cuba"
+        },
+        {
+            "questao": "Onde Ronaldinho Gaucho, o jogador de futebol nasceu?",
+            "resposta1": "São Paulo",
+            "resposta2": "Rio de Janeiro",
+            "resposta3": "Porto Alegre",
+            "resposta4": "Curitiba",
+            "correta": "Porto Alegre"
+        },
+        {
+            "questao": "Quando acabou a Segunda Guerra Mundial?",
+            "resposta1": "1947",
+            "resposta2": "1945",
+            "resposta3": "1889",
+            "resposta4": "1950",
+            "correta": "1945"
+        },
+        {
+            "questao": "Quem compôs a canção Imagine?",
+            "resposta1": "Ringo Star",
+            "resposta2": "George Harrison",
+            "resposta3": "Paul MacArtney",
+            "resposta4": "John Lennon",
+            "correta": "John Lennon"
+        },
+        {
+            "questao": "No ano do ataque e terrorista as torres gemeas em Nova Iorque, quem era o presidente americano?",
+            "resposta1": "Barack Obama",
+            "resposta2": "Bill Clinton",
+            "resposta3": "George W. Bush",
+            "resposta4": "Ronald Reegan",
+            "correta": "George W. Bush"
+        },
+        {
+            "questao": "Uma das respostas abaixo está CORRETA. Qual?",
+            "resposta1": "A velociade do som é igual a da luz",
+            "resposta2": "Golfinhos são mamíferos",
+            "resposta3": "Os passáros são invertebrados",
+            "resposta4": "O Brasil é o maior país do mundo",
+            "correta": "Golfinhos são mamíferos"
+        },
+        {
+            "questao": "O avião que ultrapassa a velocidade do som é:",
+            "resposta1": "Teco Teco",
+            "resposta2": "Supersônico",
+            "resposta3": "Sônico",
+            "resposta4": "Hipersônico",
+            "correta": "Supersônico"
+        },
+        {
+            "questao": "Qual cidade brasileira fica o Rio Tietê?",
+            "resposta1": "Recife",
+            "resposta2": "Manaus",
+            "resposta3": "Rio de Janeiro",
+            "resposta4": "São Paulo",
+            "correta": "São Paulo"
+        },
+        {
+            "questao": "Qual navegador português descobriu o Brasil?",
+            "resposta1": "Vasco da Gama",
+            "resposta2": "Don João VI",
+            "resposta3": "Cristovão Colombo",
+            "resposta4": "Pedro Álvares Cabral",
+            "correta": "Pedro Álvares Cabral"
+        },
+        {
+            "questao": "Nome que se dá a uma porção de terra cercada de água por todos os lados?",
+            "resposta1": "Lagoa",
+            "resposta2": "Ilha",
+            "resposta3": "Montanha",
+            "resposta4": "Caverna",
+            "correta": "Ilha"
+        },
+        {
+            "questao": "Metal precioso de cor amarela, muito usado no fabrico de alianças, anéis, brincos, e até moedas:",
+            "resposta1": "Ouro",
+            "resposta2": "Estanho",
+            "resposta3": "Cobre",
+            "resposta4": "Prata",
+            "correta": "Ouro"
+        },
+        {
+            "questao": "Qual a estação do ano que antecede a Primavera?",
+            "resposta1": "Inverno",
+            "resposta2": "Verão",
+            "resposta3": "Seca",
+            "resposta4": "Outono",
+            "correta": "Inverno"
+        },
+        {
+            "questao": "Qual a cidade da Europa onde está localizada a Torre Eiffel?",
+            "resposta1": "Paris",
+            "resposta2": "Londres",
+            "resposta3": "Berlim",
+            "resposta4": "Roma",
+            "correta": "Paris"
+        },
+        {
+            "questao": "Qual a cidade brasileira conhecida como A CIDADE MARAVILHOSA?",
+            "resposta1": "Manaus",
+            "resposta2": "Brasilia",
+            "resposta3": "Rio de Janeiro",
+            "resposta4": "Porto Alegre",
+            "correta": "Rio de Janeiro"
+        },
+        {
+            "questao": "Qual o nome do brasileiro conhecido como O PAI DA AVIAÇÃO?",
+            "resposta1": "Rui Barbosa",
+            "resposta2": "Alberto Santos Dumont",
+            "resposta3": "Osvaldo Cruz",
+            "resposta4": "Castro Alves",
+            "correta": "Alberto Santos Dumont"
+        },
+        {
+            "questao": "A Copa do Mundo de 2022 será sediada pelo menor país da história das Copas. Qual é ele?",
+            "resposta1": "San Marino",
+            "resposta2": "Liechenstein",
+            "resposta3": "Croacia",
+            "resposta4": "QatarC",
+            "correta": "Qatar"
+        },
+        {
+            "questao": "Por sorte nossa, há um escudo em torno de nosso planeta que desvia as tempestades de partículas e os raios cósmicos do Sol. Como é denominado?",
+            "resposta1": "Campo magnético",
+            "resposta2": "Camada de ozônio",
+            "resposta3": "Lua",
+            "resposta4": "Jupiter",
+            "correta": "Campo magnético"
+        },
+        {
+            "questao": "Qual o nome do astro que perdeu o título de planeta recentemente?",
+            "resposta1": "Urano",
+            "resposta2": "Mercúrio",
+            "resposta3": "Plutão",
+            "resposta4": "Kepler-133",
+            "correta": "Plutão"
+        },
+        {
+            "questao": "Qual a cor do céu de Marte?",
+            "resposta1": "Verde",
+            "resposta2": "Azul",
+            "resposta3": "Rosa",
+            "resposta4": "Vermelho",
+            "correta": "Vermelho"
+        },
+        {
+            "questao": "Qual o nome do cometa que volta a estar próximo da Terra a cada 75 anos?",
+            "resposta1": "Halley",
+            "resposta2": "Hale-Bopp",
+            "resposta3": "Bennett",
+            "resposta4": "Kepler",
+            "correta": "Halley"
+        },
+        {
+            "questao": "Qual o nome do cometa que volta a estar próximo da Terra a cada 75 anos?",
+            "resposta1": "Halley",
+            "resposta2": "Hale-Bopp",
+            "resposta3": "Bennett",
+            "resposta4": "Kepler",
+            "correta": "Halley"
+        },
+        {
+            "questao": "Qual é o nome da maior estrela conhecida?",
+            "resposta1": "Betegeulse",
+            "resposta2": "Harms",
+            "resposta3": "Aldebarã",
+            "resposta4": "VY Canis Majoris",
+            "correta": "VY Canis Majoris"
+        },
+        {
+            "questao": "Qual é o nome da maior estrela conhecida?",
+            "resposta1": "Betegeulse",
+            "resposta2": "Harms",
+            "resposta3": "Aldebarã",
+            "resposta4": "VY Canis Majoris",
+            "correta": "VY Canis Majoris"
+        },
+        {
+            "questao": "Onde ficava a estátua de Zeus, uma das 7 Maravilhas do Mundo Antigo?",
+            "resposta1": "Atenas",
+            "resposta2": "Olímpia",
+            "resposta3": "Delfos",
+            "resposta4": "Lesbos",
+            "correta": "Atenas"
+        },
+        {
+            "questao": "Em que ano derrubaram as Torres Gêmeas (World Trade Center)?",
+            "resposta1": "1999",
+            "resposta2": "2001",
+            "resposta3": "2002",
+            "resposta4": "2010",
+            "correta": "2001"
+        },
+        {
+            "questao": "Quantos minutos têm em três horas?",
+            "resposta1": "60",
+            "resposta2": "120",
+            "resposta3": "180",
+            "resposta4": "210",
+            "correta": "180"
+        },
+        {
+            "questao": "Quantos filmes há numa trilogia?",
+            "resposta1": "Um filme",
+            "resposta2": "Dois filmes",
+            "resposta3": "Quatro filmes",
+            "resposta4": "Três filmes",
+            "correta": "Três filmes"
+        },
+        {
+            "questao": "Qual o planeta é famoso por possuir anéis em sua volta?",
+            "resposta1": "Urano",
+            "resposta2": "Netuno",
+            "resposta3": "Marte ",
+            "resposta4": "Saturno",
+            "correta": "Saturno"
+        },
+        {
+            "questao": "Qual o planeta é famoso por possuir anéis em sua volta?",
+            "resposta1": "Urano",
+            "resposta2": "Netuno",
+            "resposta3": "Marte",
+            "resposta4": "Saturno",
+            "correta": "Saturno"
+        },
+        {
+            "questao": "Quantas letras há no alfabeto português, atualmente?",
+            "resposta1": "26 letras",
+            "resposta2": "24 letras",
+            "resposta3": "25 letras",
+            "resposta4": "27 letras",
+            "correta": "26 letras"
+        },
+        {
+            "questao": "Quantos anos há em dois séculos e meio?",
+            "resposta1": "100 anos",
+            "resposta2": "150 anos",
+            "resposta3": "200 anos",
+            "resposta4": "250 anos",
+            "correta": "250 anos"
+        },
+        {
+            "questao": "Quantos dentes uma pessoa adulta possui, se não perdeu nenhum?",
+            "resposta1": "30",
+            "resposta2": "32",
+            "resposta3": "34",
+            "resposta4": "36",
+            "correta": "32"
+        },
+        {
+            "questao": "Em qual século estamos agora?",
+            "resposta1": "XVIII",
+            "resposta2": "IX",
+            "resposta3": "XX",
+            "resposta4": "XXI",
+            "correta": "XXI"
+        },
+        {
+            "questao": "Quantos séculos há em um milênio? ",
+            "resposta1": "1 século",
+            "resposta2": "5 séculos",
+            "resposta3": "10 séculos",
+            "resposta4": "15 séculos",
+            "correta": "10 séculos"
+        },
+        {
+            "questao": "Em qual século estamos agora?",
+            "resposta1": "XVIII",
+            "resposta2": "IX",
+            "resposta3": "XX",
+            "resposta4": "XXI",
+            "correta": "XXI"
+        },
+        {
+            "questao": "Quantas sílabas tem a palavra paralelepípedo?",
+            "resposta1": "Cinco sílabas",
+            "resposta2": "Seis sílabas",
+            "resposta3": "Sete sílabas",
+            "resposta4": "Oito sílabas",
+            "correta": "Sete sílabas"
+        },
+        {
+            "questao": "Qual é a forma geométrica do quadro negro?",
+            "resposta1": "Retângulo",
+            "resposta2": "Quadrado",
+            "resposta3": "Circulo",
+            "resposta4": "Triangulo ",
+            "correta": "Retângulo"
+        },
+        {
+            "questao": "Quantas cores há no arco-íris?",
+            "resposta1": "5",
+            "resposta2": "6",
+            "resposta3": "7",
+            "resposta4": "8",
+            "correta": "7"
+        },
+        {
+            "questao": "Qual o menor país do mundo?",
+            "resposta1": "Mônaco",
+            "resposta2": "Nauru",
+            "resposta3": "Tuvalu",
+            "resposta4": "Vaticano",
+            "correta": "Vaticano"
+        },
+        {
+            "questao": "Listras azuis e brancas intercaladas e um sol no canto superior esquerdo caracterizam a bandeira de qual país da América do Sul?",
+            "resposta1": "Uruguai",
+            "resposta2": "Argentina",
+            "resposta3": "Tuvalu",
+            "resposta4": "Namíbia",
+            "correta": "Uruguai"
+        },
+        {
+            "questao": "Qual o número mínimo de jogadores numa partida de futebol?",
+            "resposta1": "8",
+            "resposta2": "7",
+            "resposta3": "9",
+            "resposta4": "8",
+            "correta": "7"
+        },
+        {
+            "questao": "Método de seleção em que predomina o mérito. Essa é a definição de qual conceito da Sociologia?",
+            "resposta1": "Aristocracia",
+            "resposta2": "Fidalguia",
+            "resposta3": "Tirania",
+            "resposta4": "Meritocracia",
+            "correta": "Meritocracia"
+        }
+
+    ]
+}
